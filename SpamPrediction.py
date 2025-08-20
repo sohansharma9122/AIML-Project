@@ -48,7 +48,8 @@ if st.button('Validate'):
     st.markdown(output)
 
 
-
+# if we want to run this write this Command on your terminal
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # PS C:\Users\HP\Desktop\Email_Spam> python -m streamlit run spam.py
 # >>
 
@@ -56,3 +57,4 @@ if st.button('Validate'):
 
 #   Local URL: http://localhost:8501
 #   Network URL: http://10.41.107.194:8501
+
